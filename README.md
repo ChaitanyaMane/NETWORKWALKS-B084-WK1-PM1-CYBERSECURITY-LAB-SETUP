@@ -296,7 +296,7 @@ ip -4 addr</code></pre>
 
 <h2>Project Information</h2>
 
-<p><strong>Author:</strong> Chijioke Henry Okoye</p>
+<p><strong>Author:</strong> Chaitanya Mane</p>
 <p><strong>Program:</strong> Cybersecurity at Networkwalks</p>
 <p><strong>Week:</strong> 01</p>
 <p><strong>Project:</strong> Cybersecurity &amp; Penetration Testing Lab Setup</p>
