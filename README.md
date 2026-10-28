@@ -1,4 +1,3 @@
-# NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 <h1>Cybersecurity &amp; Penetration Testing Lab Setup</h1>
 
