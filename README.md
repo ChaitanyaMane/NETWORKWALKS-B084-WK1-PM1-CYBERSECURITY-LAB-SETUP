@@ -111,7 +111,8 @@
 <p>
   Using a virtual machine allows me to practise cybersecurity techniques in a dedicated environment without needing a separate physical computer for Kali Linux.
 </p>
-<img width="1920" height="1080" alt="Kali,Windows,Android Config" https://github.com/ChaitanyaMane/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/Kali,Windows,Android%20Config.png?raw=true" />
+<img width="1920" height="1080" alt="Kali,Windows,Android Config" src="https://github.com/ChaitanyaMane/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/Kali,Windows,Android%20Config.png?raw=true" />
+
 <img width="1919" height="960" alt="kali" src="https://github.com/user-attachments/assets/0fac1cc2-1946-4569-a6f0-784f3a52e272" />
 
 <h3>3. Configuring the Virtual Network</h3>
